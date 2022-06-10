@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo/logo.png" alt="JobHunt - A job hunting software"><br>
+  <img src="logo/vector/default-monochrome.svg" alt="JobHunt - A job hunting software"><br>
   <a href="#free-public-servers">Servers</a> •
   <a href="#raw-steps-to-build">Build</a> •
   <a href="#how-to-build-with-docker">Docker</a> •
