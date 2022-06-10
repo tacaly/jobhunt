@@ -12,7 +12,7 @@ Chat with us: [Discord](https://discord.gg/cKpENSUZtc) | [Twitter](https://twitt
 
 Yet another Job-hunting desktop software, written in Rust. Works out of the box, no configuration required. You have full control of your data, with no concerns about security. 
 
-
+Stop searching for a job when your union or govement tells you to constantly, let JobHunt do it for you. Automatically!
 ## Dependencies
 
 Mobile versions use Flutter.
