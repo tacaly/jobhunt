@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Renner-Bold
+font link: http://indestructibletype.com/BuyRenner.html
+font author: indestructible type*
+font author site: http://indestructibletype.com/Home.html
+
+
+icon designer: IconTrack
+icon designer link: /IconTrack
+        
+{"bg":"transparent","icon-gradient-0":"#B4373D","icon-gradient-1":"#B23ACB","font":"#000000","slogan":"#141414"}
+      
