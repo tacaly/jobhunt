@@ -7,7 +7,7 @@
   <a href="#snapshot">Snapshot</a><br>
   </p>
 
-Chat with us: [Discord](https://discord.gg/nDceKgxnkV) | [Twitter](https://twitter.com/tacaly) | [Reddit](https://www.reddit.com/r/tacaly)
+Chat with us: [Discord](https://discord.gg/cKpENSUZtc) | [Twitter](https://twitter.com/tacaly) | [Reddit](https://www.reddit.com/r/tacaly)
 
 
 Yet another Job-hunting desktop software, written in Rust. Works out of the box, no configuration required. You have full control of your data, with no concerns about security. 
