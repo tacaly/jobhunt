@@ -7,6 +7,9 @@ edition = "2021"
 
 [dependencies]
 flutter_rust_bridge = "1"
+jobgen_common = { path = "libs/jobgen_common" }
+jobhunt_common = { path = "libs/jobhunt_common" }
+soap_rs = { path = "libs/soap_rs" }
 
 [[bin]]
 name = "jobhunt"
